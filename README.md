@@ -1,4 +1,4 @@
-# Car Booking Tkinter
+# Taxi Booking Tkinter
 # Taxi Booking System in SRM
 
 Welcome to the Taxi Booking System in SRM repository. This project is a simple taxi booking application developed using Python's Tkinter for the graphical user interface and SQLite for database management.
